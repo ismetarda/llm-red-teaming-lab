@@ -1,0 +1,16 @@
+# Python'un oluşturduğu gereksiz önbellek dosyaları (Çöp)
+__pycache__/
+
+# Jupyer Notebook'un otomatik yedekleri (Gereksiz)
+.ipynb_checkpoints
+
+# Hata kayıtları ve loglar (GitHub'da yer kaplamasın)
+*.log
+
+# Ortam değişkenleri ve şifreler (ÇOK ÖNEMLİ - Güvenlik İçin)
+.env
+.DS_Store
+
+# Senin test çıktıların veya resimlerin (İsteğe bağlı)
+outputs/
+*.png
