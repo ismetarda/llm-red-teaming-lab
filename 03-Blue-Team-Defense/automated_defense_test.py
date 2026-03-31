@@ -63,3 +63,4 @@ with open("defense_test_report.md", "w", encoding="utf-8") as f:
     f.write(report_content)
 
 print("🎉 Tüm testler tamamlandı! Rapor 'defense_test_report.md' dosyasına kaydedildi.")
+ 
