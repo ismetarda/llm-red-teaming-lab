@@ -1,0 +1,1 @@
+# Garak Otomatik Zafiyet Taramaları
